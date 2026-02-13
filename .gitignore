@@ -1,0 +1,7 @@
+.env
+config/teams.json
+backup/
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,22 @@
+{
+  "teams": [
+    {
+      "id": "team-a",
+      "name": "Team A",
+      "collection_uid": "YOUR_COLLECTION_UID_1",
+      "api_key": "YOUR_API_KEY_1"
+    },
+    {
+      "id": "team-b",
+      "name": "Team B",
+      "collection_uid": "YOUR_COLLECTION_UID_2",
+      "api_key": "YOUR_API_KEY_2"
+    },
+    {
+      "id": "team-c",
+      "name": "Team C",
+      "collection_uid": "YOUR_COLLECTION_UID_3",
+      "api_key": "YOUR_API_KEY_3"
+    }
+  ]
+}
