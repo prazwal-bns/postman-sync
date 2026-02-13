@@ -1,6 +1,6 @@
 # Postman collection backup and cross-sync
 
-Backup all Postman collections and sync any collection to any other (cross-team). Add as many teams as you want via config.
+Backup all Postman collections and sync any collection to any other workspace. And add as many teams as you want via config.
 
 ## Setup
 
